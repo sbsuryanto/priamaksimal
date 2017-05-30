@@ -1,0 +1,23 @@
+#slider-1 H2 {
+  color: #ffffff;
+}
+#dropdown-menu-e .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-e .nav .link,
+#dropdown-menu-e .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-e .navbar,
+#dropdown-menu-e .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-e .dropdown-menu a:hover,
+#dropdown-menu-e .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-e .navbar-toggler {
+  color: #000000;
+}
